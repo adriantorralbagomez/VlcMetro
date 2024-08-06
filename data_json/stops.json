@@ -1,148 +1,1003 @@
 [
-    {"stop_id": 86, "stop_name": "Beteró", "stop_lat": 39.4765930176, "stop_lon": -0.3342027664, "zone_id": "A"},
-    {"stop_id": 87, "stop_name": "Tarongers - Ernest Lluch", "stop_lat": 39.47813797, "stop_lon": -0.3396222293, "zone_id": "A"},
-    {"stop_id": 88, "stop_name": "La Carrasca", "stop_lat": 39.4796600342, "stop_lon": -0.3448249996, "zone_id": "A"},
-    {"stop_id": 89, "stop_name": "Universitat Politècnica", "stop_lat": 39.4813156128, "stop_lon": -0.3504999876, "zone_id": "A"},
-    {"stop_id": 90, "stop_name": "Vicente Zaragozá", "stop_lat": 39.4833717346, "stop_lon": -0.3579472303, "zone_id": "A"},
-    {"stop_id": 12, "stop_name": "Benimaclet", "stop_lat": 39.4848518372, "stop_lon": -0.3623333275, "zone_id": "A"},
-    {"stop_id": 91, "stop_name": "Trinitat", "stop_lat": 39.4862709045, "stop_lon": -0.3677638769, "zone_id": "A"},
-    {"stop_id": 92, "stop_name": "Pont de Fusta", "stop_lat": 39.4817810059, "stop_lon": -0.3731805682, "zone_id": "A"},
-    {"stop_id": 93, "stop_name": "Sagunt", "stop_lat": 39.4864997864, "stop_lon": -0.3749722242, "zone_id": "A"},
-    {"stop_id": 94, "stop_name": "Reus", "stop_lat": 39.4859657288, "stop_lon": -0.3817070127, "zone_id": "A"},
-    {"stop_id": 95, "stop_name": "Marxalenes", "stop_lat": 39.4879722595, "stop_lon": -0.3838368952, "zone_id": "A"},
-    {"stop_id": 96, "stop_name": "Trànsits", "stop_lat": 39.4895629883, "stop_lon": -0.387258321, "zone_id": "A"},
-    {"stop_id": 97, "stop_name": "Benicalap", "stop_lat": 39.4900283813, "stop_lon": -0.3909277916, "zone_id": "A"},
-    {"stop_id": 98, "stop_name": "Garbí", "stop_lat": 39.4922904968, "stop_lon": -0.3945111036, "zone_id": "A"},
-    {"stop_id": 99, "stop_name": "Florista", "stop_lat": 39.4944343567, "stop_lon": -0.3968166709, "zone_id": "A"},
-    {"stop_id": 100, "stop_name": "Palau de Congressos", "stop_lat": 39.4971809387, "stop_lon": -0.4001416564, "zone_id": "A"},
-    {"stop_id": 55, "stop_name": "Empalme", "stop_lat": 39.4995765686, "stop_lon": -0.4021083415, "zone_id": "A"},
-    {"stop_id": 101, "stop_name": "La Granja", "stop_lat": 39.504032135, "stop_lon": -0.4124779999, "zone_id": "A B"},
-    {"stop_id": 102, "stop_name": "Sant Joan", "stop_lat": 39.5052909851, "stop_lon": -0.4163239896, "zone_id": "A B"},
-    {"stop_id": 103, "stop_name": "Campus", "stop_lat": 39.5072212219, "stop_lon": -0.4174583256, "zone_id": "A B"},
-    {"stop_id": 104, "stop_name": "Vicent Andrés Estellés", "stop_lat": 39.5085601807, "stop_lon": -0.4198839962, "zone_id": "A B"},
-    {"stop_id": 83, "stop_name": "Dr. Lluch", "stop_lat": 39.4693069458, "stop_lon": -0.3281527758, "zone_id": "A"},
-    {"stop_id": 84, "stop_name": "Cabanyal", "stop_lat": 39.4728546143, "stop_lon": -0.3275833428, "zone_id": "A"},
-    {"stop_id": 85, "stop_name": "La Cadena", "stop_lat": 39.4752044678, "stop_lon": -0.3293749988, "zone_id": "A"},
-    {"stop_id": 105, "stop_name": "À Punt", "stop_lat": 39.5122032166, "stop_lon": -0.424748987, "zone_id": "A B"},
-    {"stop_id": 113, "stop_name": "Parc Científic", "stop_lat": 39.5151405334, "stop_lon": -0.4226219952, "zone_id": "A B"},
-    {"stop_id": 112, "stop_name": "Tomás y Valiente", "stop_lat": 39.5197715759, "stop_lon": -0.4256361127, "zone_id": "A B"},
-    {"stop_id": 111, "stop_name": "La Coma", "stop_lat": 39.521572113, "stop_lon": -0.4317069948, "zone_id": "A B"},
-    {"stop_id": 110, "stop_name": "Mas del Rosari", "stop_lat": 39.5249595642, "stop_lon": -0.4358249903, "zone_id": "A B"},
-    {"stop_id": 128, "stop_name": "Alfauir", "stop_lat": 39.4892997742, "stop_lon": -0.3660329878, "zone_id": "A"},
-    {"stop_id": 129, "stop_name": "Orriols", "stop_lat": 39.4931488037, "stop_lon": -0.3676636219, "zone_id": "A"},
-    {"stop_id": 130, "stop_name": "Estadi Ciutat de València", "stop_lat": 39.4949188232, "stop_lon": -0.3655419946, "zone_id": "A"},
-    {"stop_id": 131, "stop_name": "Sant Miquel dels Reis", "stop_lat": 39.4972190857, "stop_lon": -0.3684949875, "zone_id": "A"},
-    {"stop_id": 132, "stop_name": "Tossal del Rei", "stop_lat": 39.4959526062, "stop_lon": -0.3725369871, "zone_id": "A"},
-    {"stop_id": 114, "stop_name": "Ll. Llarga - Terramelar", "stop_lat": 39.5098991394, "stop_lon": -0.4304472208, "zone_id": "A B"},
-    {"stop_id": 115, "stop_name": "Marítim", "stop_lat": 39.4649391174, "stop_lon": -0.3382369876, "zone_id": "A"},
-    {"stop_id": 122, "stop_name": "Francesc Cubells", "stop_lat": 39.4632453918, "stop_lon": -0.3339729905, "zone_id": "A"},
-    {"stop_id": 123, "stop_name": "Grau - La Marina", "stop_lat": 39.4631004333, "stop_lon": -0.3294720054, "zone_id": "A"},
-    {"stop_id": 127, "stop_name": "Canyamelar", "stop_lat": 39.4665222168, "stop_lon": -0.3279320002, "zone_id": "A"},
-    {"stop_id": 126, "stop_name": "Neptú", "stop_lat": 39.4632530212, "stop_lon": -0.3258508444, "zone_id": "A"},
-    {"stop_id": 81, "stop_name": "Platja Malva-rosa", "stop_lat": 39.473690033, "stop_lon": -0.3257277906, "zone_id": "A"},
-    {"stop_id": 82, "stop_name": "Platja les Arenes", "stop_lat": 39.4689292908, "stop_lon": -0.3257277906, "zone_id": "A"},
-    {"stop_id": 18, "stop_name": "Av. del Cid", "stop_lat": 39.4682197571, "stop_lon": -0.397574991, "zone_id": "A"},
-    {"stop_id": 17, "stop_name": "Àngel Guimerà", "stop_lat": 39.4703025818, "stop_lon": -0.3850361109, "zone_id": "A"},
-    {"stop_id": 16, "stop_name": "Xàtiva", "stop_lat": 39.4671859741, "stop_lon": -0.3773750067, "zone_id": "A"},
-    {"stop_id": 15, "stop_name": "Colón", "stop_lat": 39.4701461792, "stop_lon": -0.3709277809, "zone_id": "A"},
-    {"stop_id": 14, "stop_name": "Alameda", "stop_lat": 39.4731559753, "stop_lon": -0.3653166592, "zone_id": "A"},
-    {"stop_id": 13, "stop_name": "Facultats - Manuel Broseta", "stop_lat": 39.4780044556, "stop_lon": -0.361905545, "zone_id": "A"},
-    {"stop_id": 11, "stop_name": "Machado", "stop_lat": 39.4924316406, "stop_lon": -0.3587944508, "zone_id": "A"},
-    {"stop_id": 10, "stop_name": "Alboraia Palmaret", "stop_lat": 39.4956626892, "stop_lon": -0.3552222252, "zone_id": "A B"},
-    {"stop_id": 9, "stop_name": "Alboraia Peris Aragó", "stop_lat": 39.5007629395, "stop_lon": -0.352327764, "zone_id": "A B"},
-    {"stop_id": 121, "stop_name": "Aeroport", "stop_lat": 39.4923667908, "stop_lon": -0.4749194384, "zone_id": "+"},
-    {"stop_id": 120, "stop_name": "Roses", "stop_lat": 39.4926490784, "stop_lon": -0.4672361016, "zone_id": "A B"},
-    {"stop_id": 119, "stop_name": "Manises", "stop_lat": 39.4895896912, "stop_lon": -0.4590654373, "zone_id": "A B"},
-    {"stop_id": 118, "stop_name": "Salt de l'Aigua", "stop_lat": 39.4848327637, "stop_lon": -0.4505681992, "zone_id": "A B"},
-    {"stop_id": 117, "stop_name": "Quart de Poblet", "stop_lat": 39.481086731, "stop_lon": -0.441880554, "zone_id": "A B"},
-    {"stop_id": 200, "stop_name": "Faitanar", "stop_lat": 39.4776191711, "stop_lon": -0.4331833422, "zone_id": "A B"},
-    {"stop_id": 21, "stop_name": "Mislata Almassil", "stop_lat": 39.4760093689, "stop_lon": -0.4243694544, "zone_id": "A B"},
-    {"stop_id": 20, "stop_name": "Mislata", "stop_lat": 39.4738235474, "stop_lon": -0.418305546, "zone_id": "A B"},
-    {"stop_id": 19, "stop_name": "Nou d'Octubre", "stop_lat": 39.4706573486, "stop_lon": -0.4076305628, "zone_id": "A"},
-    {"stop_id": 8, "stop_name": "Almàssera", "stop_lat": 39.5122566223, "stop_lon": -0.3542666733, "zone_id": "A B"},
-    {"stop_id": 7, "stop_name": "Meliana", "stop_lat": 39.5280303955, "stop_lon": -0.3518194556, "zone_id": "A B"},
-    {"stop_id": 6, "stop_name": "Foios", "stop_lat": 39.5372238159, "stop_lon": -0.3538694382, "zone_id": "A B"},
-    {"stop_id": 5, "stop_name": "Albalat dels Sorells", "stop_lat": 39.5452651978, "stop_lon": -0.3482888937, "zone_id": "A B"},
-    {"stop_id": 4, "stop_name": "Museros", "stop_lat": 39.5615768433, "stop_lon": -0.3408555686, "zone_id": "A B"},
-    {"stop_id": 3, "stop_name": "Massamagrell", "stop_lat": 39.5705604553, "stop_lon": -0.3330333233, "zone_id": "A B"},
-    {"stop_id": 2, "stop_name": "La Pobla de Farnals", "stop_lat": 39.5794181824, "stop_lon": -0.3304361105, "zone_id": "A B"},
-    {"stop_id": 1, "stop_name": "Rafelbunyol", "stop_lat": 39.5885238647, "stop_lon": -0.3310583234, "zone_id": "A B"},
-    {"stop_id": 183, "stop_name": "La Cova", "stop_lat": 39.4988899231, "stop_lon": -0.4844444394, "zone_id": "A B"},
-    {"stop_id": 184, "stop_name": "La Presa", "stop_lat": 39.5172233582, "stop_lon": -0.5158333182, "zone_id": "A B"},
-    {"stop_id": 188, "stop_name": "València la Vella", "stop_lat": 39.5304832458, "stop_lon": -0.5342069864, "zone_id": "B"},
-    {"stop_id": 185, "stop_name": "Masia de Traver", "stop_lat": 39.5380554199, "stop_lon": -0.5466666818, "zone_id": "B"},
-    {"stop_id": 186, "stop_name": "Riba-roja de Túria", "stop_lat": 39.5433349609, "stop_lon": -0.5594444275, "zone_id": "B"},
-    {"stop_id": 22, "stop_name": "Ayora", "stop_lat": 39.4664268494, "stop_lon": -0.3429694474, "zone_id": "A"},
-    {"stop_id": 23, "stop_name": "Amistat", "stop_lat": 39.4703330994, "stop_lon": -0.3503944576, "zone_id": "A"},
-    {"stop_id": 24, "stop_name": "Aragó", "stop_lat": 39.4726257324, "stop_lon": -0.3581166565, "zone_id": "A"},
-    {"stop_id": 109, "stop_name": "Bailén", "stop_lat": 39.4639778137, "stop_lon": -0.3794222176, "zone_id": "A"},
-    {"stop_id": 25, "stop_name": "Jesús", "stop_lat": 39.4592018127, "stop_lon": -0.3845416605, "zone_id": "A"},
-    {"stop_id": 26, "stop_name": "Patraix", "stop_lat": 39.456451416, "stop_lon": -0.3905083239, "zone_id": "A"},
-    {"stop_id": 27, "stop_name": "Safranar", "stop_lat": 39.4545707703, "stop_lon": -0.3983833194, "zone_id": "A"},
-    {"stop_id": 28, "stop_name": "Sant Isidre", "stop_lat": 39.4510345459, "stop_lon": -0.4028027654, "zone_id": "A"},
-    {"stop_id": 30, "stop_name": "València Sud", "stop_lat": 39.4408111572, "stop_lon": -0.4106472135, "zone_id": "A"},
-    {"stop_id": 31, "stop_name": "Paiporta", "stop_lat": 39.4322624207, "stop_lon": -0.4180611074, "zone_id": "A B"},
-    {"stop_id": 32, "stop_name": "Picanya", "stop_lat": 39.4331207275, "stop_lon": -0.4371583462, "zone_id": "A B"},
-    {"stop_id": 33, "stop_name": "Torrent", "stop_lat": 39.4346466064, "stop_lon": -0.4609861076, "zone_id": "A B"},
-    {"stop_id": 34, "stop_name": "Torrent Avinguda", "stop_lat": 39.4318122864, "stop_lon": -0.4728333354, "zone_id": "A B"},
-    {"stop_id": 60, "stop_name": "Paterna", "stop_lat": 39.4988098145, "stop_lon": -0.4419719875, "zone_id": "A B"},
-    {"stop_id": 59, "stop_name": "Campament", "stop_lat": 39.4958457947, "stop_lon": -0.435323, "zone_id": "A B"},
-    {"stop_id": 58, "stop_name": "Les Carolines - Fira", "stop_lat": 39.4987373352, "stop_lon": -0.4254194498, "zone_id": "A B"},
-    {"stop_id": 57, "stop_name": "Benimàmet", "stop_lat": 39.5018768311, "stop_lon": -0.4194111228, "zone_id": "A B"},
-    {"stop_id": 56, "stop_name": "Cantereria", "stop_lat": 39.5023803711, "stop_lon": -0.4120722115, "zone_id": "A B"},
-    {"stop_id": 54, "stop_name": "Beniferri", "stop_lat": 39.4910316467, "stop_lon": -0.3993369341, "zone_id": "A"},
-    {"stop_id": 53, "stop_name": "Campanar", "stop_lat": 39.4846305847, "stop_lon": -0.3950361013, "zone_id": "A"},
-    {"stop_id": 52, "stop_name": "Túria", "stop_lat": 39.4788665771, "stop_lon": -0.3912055492, "zone_id": "A"},
-    {"stop_id": 51, "stop_name": "Pl. Espanya", "stop_lat": 39.4662017822, "stop_lon": -0.3816333413, "zone_id": "A"},
-    {"stop_id": 71, "stop_name": "Llíria", "stop_lat": 39.6228408813, "stop_lon": -0.590277791, "zone_id": "B"},
-    {"stop_id": 70, "stop_name": "Benaguasil", "stop_lat": 39.5988807678, "stop_lon": -0.5839277506, "zone_id": "B"},
-    {"stop_id": 69, "stop_name": "Fondo de Benaguasil", "stop_lat": 39.5927238464, "stop_lon": -0.5780805349, "zone_id": "B"},
-    {"stop_id": 68, "stop_name": "La Pobla de Vallbona", "stop_lat": 39.5827636719, "stop_lon": -0.5622777939, "zone_id": "B"},
-    {"stop_id": 201, "stop_name": "Gallipont - Torre del Virrei", "stop_lat": 39.5686645508, "stop_lon": -0.5419166684, "zone_id": "B"},
-    {"stop_id": 67, "stop_name": "L'Eliana", "stop_lat": 39.561832428, "stop_lon": -0.5359194279, "zone_id": "B"},
-    {"stop_id": 66, "stop_name": "Montesol", "stop_lat": 39.5555725098, "stop_lon": -0.5316972136, "zone_id": "B"},
-    {"stop_id": 108, "stop_name": "El Clot", "stop_lat": 39.5498657227, "stop_lon": -0.5279861093, "zone_id": "B"},
-    {"stop_id": 65, "stop_name": "Entrepins", "stop_lat": 39.5433349609, "stop_lon": -0.5139539838, "zone_id": "B"},
-    {"stop_id": 64, "stop_name": "La Vallesa", "stop_lat": 39.5378417969, "stop_lon": -0.4979777634, "zone_id": "A B"},
-    {"stop_id": 63, "stop_name": "La Canyada", "stop_lat": 39.5268058777, "stop_lon": -0.4871222079, "zone_id": "A B"},
-    {"stop_id": 62, "stop_name": "Fuente del Jarro", "stop_lat": 39.5111732483, "stop_lon": -0.4645166695, "zone_id": "A B"},
-    {"stop_id": 61, "stop_name": "Santa Rita", "stop_lat": 39.505657196, "stop_lon": -0.4551055431, "zone_id": "A B"},
-    {"stop_id": 35, "stop_name": "Castelló", "stop_lat": 39.0840072632, "stop_lon": -0.5160138607, "zone_id": "B"},
-    {"stop_id": 36, "stop_name": "Alberic", "stop_lat": 39.1170501709, "stop_lon": -0.5235260129, "zone_id": "B"},
-    {"stop_id": 37, "stop_name": "Massalavés", "stop_lat": 39.1438064575, "stop_lon": -0.5187610984, "zone_id": "B"},
-    {"stop_id": 38, "stop_name": "Montortal", "stop_lat": 39.1737976074, "stop_lon": -0.5158861279, "zone_id": "B"},
-    {"stop_id": 39, "stop_name": "L'Alcúdia", "stop_lat": 39.193813324, "stop_lon": -0.5102638602, "zone_id": "B"},
-    {"stop_id": 40, "stop_name": "Benimodo", "stop_lat": 39.216293335, "stop_lon": -0.5196194649, "zone_id": "B"},
-    {"stop_id": 41, "stop_name": "Carlet", "stop_lat": 39.2267990112, "stop_lon": -0.5249416828, "zone_id": "B"},
-    {"stop_id": 42, "stop_name": "Ausiàs March", "stop_lat": 39.2495574951, "stop_lon": -0.4919772148, "zone_id": "B"},
-    {"stop_id": 43, "stop_name": "Alginet", "stop_lat": 39.2629394531, "stop_lon": -0.4748860002, "zone_id": "B"},
-    {"stop_id": 44, "stop_name": "Font Almaguer", "stop_lat": 39.2894058228, "stop_lon": -0.4640861154, "zone_id": "B"},
-    {"stop_id": 45, "stop_name": "Espioca", "stop_lat": 39.3218841553, "stop_lon": -0.4667472243, "zone_id": "A B"},
-    {"stop_id": 46, "stop_name": "Omet", "stop_lat": 39.3532447815, "stop_lon": -0.4736869931, "zone_id": "A B"},
-    {"stop_id": 47, "stop_name": "Picassent", "stop_lat": 39.3630371094, "stop_lon": -0.4648583233, "zone_id": "A B"},
-    {"stop_id": 48, "stop_name": "Sant Ramon", "stop_lat": 39.3848648071, "stop_lon": -0.4672611058, "zone_id": "A B"},
-    {"stop_id": 49, "stop_name": "Realón", "stop_lat": 39.3939056396, "stop_lon": -0.4640137851, "zone_id": "A B"},
-    {"stop_id": 50, "stop_name": "Col·legi El Vedat", "stop_lat": 39.4231338501, "stop_lon": -0.4606527686, "zone_id": "A B"},
-    {"stop_id": 72, "stop_name": "Burjassot", "stop_lat": 39.5084152222, "stop_lon": -0.4067361057, "zone_id": "A B"},
-    {"stop_id": 73, "stop_name": "Burjassot - Godella", "stop_lat": 39.5109481812, "stop_lon": -0.4020972252, "zone_id": "A B"},
-    {"stop_id": 74, "stop_name": "Godella", "stop_lat": 39.5199317932, "stop_lon": -0.4010112286, "zone_id": "A B"},
-    {"stop_id": 75, "stop_name": "Rocafort", "stop_lat": 39.5335769653, "stop_lon": -0.3952055573, "zone_id": "A B"},
-    {"stop_id": 76, "stop_name": "Massarrojos", "stop_lat": 39.5422096252, "stop_lon": -0.3966250122, "zone_id": "A B"},
-    {"stop_id": 77, "stop_name": "Seminari - CEU", "stop_lat": 39.5460472107, "stop_lon": -0.3886166811, "zone_id": "B"},
-    {"stop_id": 78, "stop_name": "Montcada", "stop_lat": 39.5499458313, "stop_lon": -0.382086128, "zone_id": "B"},
-    {"stop_id": 81, "stop_name": "Meliana", "stop_lat": 39.5280303955, "stop_lon": -0.3518194556, "zone_id": "A B"},
-    {"stop_id": 80, "stop_name": "Foios", "stop_lat": 39.5372238159, "stop_lon": -0.3538694382, "zone_id": "A B"},
-    {"stop_id": 79, "stop_name": "Albalat dels Sorells", "stop_lat": 39.5452651978, "stop_lon": -0.3482888937, "zone_id": "A B"},
-    {"stop_id": 86, "stop_name": "Rafelbunyol", "stop_lat": 39.5885238647, "stop_lon": -0.3310583234, "zone_id": "A B"},
-    {"stop_id": 85, "stop_name": "La Pobla de Farnals", "stop_lat": 39.5794181824, "stop_lon": -0.3304361105, "zone_id": "A B"},
-    {"stop_id": 84, "stop_name": "Massamagrell", "stop_lat": 39.5705604553, "stop_lon": -0.3330333233, "zone_id": "A B"},
-    {"stop_id": 83, "stop_name": "Museros", "stop_lat": 39.5615768433, "stop_lon": -0.3408555686, "zone_id": "A B"},
-    {"stop_id": 82, "stop_name": "Albuixech", "stop_lat": 39.5480308533, "stop_lon": -0.324177742, "zone_id": "A B"},
-    {"stop_id": 30, "stop_name": "Alaquàs", "stop_lat": 39.4536857605, "stop_lon": -0.465625, "zone_id": "A B"},
-    {"stop_id": 29, "stop_name": "Aldaia", "stop_lat": 39.4591064453, "stop_lon": -0.4737172127, "zone_id": "A B"},
-    {"stop_id": 55, "stop_name": "Faitanar", "stop_lat": 39.4776191711, "stop_lon": -0.4331833422, "zone_id": "A B"},
-    {"stop_id": 106, "stop_name": "Horta Vella", "stop_lat": 39.5634918213, "stop_lon": -0.4203365445, "zone_id": "B"},
-    {"stop_id": 107, "stop_name": "Emilio Lluch", "stop_lat": 39.5574913025, "stop_lon": -0.4248805046, "zone_id": "B"},
-    {"stop_id": 53, "stop_name": "Moncada", "stop_lat": 39.5456619263, "stop_lon": -0.4316250086, "zone_id": "B"},
-    {"stop_id": 1, "stop_name": "Mislata", "stop_lat": 39.4738235474, "stop_lon": -0.418305546, "zone_id": "A B"}
+    {
+        "zone_id": "A",
+        "stop_id": "86",
+        "stop_name": "Beteró",
+        "stop_lat": "394,765,930,176",
+        "stop_lon": "-3,342,027,664"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "87",
+        "stop_name": "Tarongers - Ernest Lluch",
+        "stop_lat": "3,947,813,797",
+        "stop_lon": "-3,396,222,293"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "88",
+        "stop_name": "La Carrasca",
+        "stop_lat": "394,796,600,342",
+        "stop_lon": "-3,448,249,996"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "89",
+        "stop_name": "Universitat Politècnica",
+        "stop_lat": "394,813,156,128",
+        "stop_lon": "-3,504,999,876"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "90",
+        "stop_name": "Vicente Zaragozá",
+        "stop_lat": "394,833,717,346",
+        "stop_lon": "-3,579,472,303"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "12",
+        "stop_name": "Benimaclet",
+        "stop_lat": "394,848,518,372",
+        "stop_lon": "-3,623,333,275"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "91",
+        "stop_name": "Trinitat",
+        "stop_lat": "394,862,709,045",
+        "stop_lon": "-3,677,638,769"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "92",
+        "stop_name": "Pont de Fusta",
+        "stop_lat": "394,817,810,059",
+        "stop_lon": "-3,731,805,682"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "93",
+        "stop_name": "Sagunt",
+        "stop_lat": "394,864,997,864",
+        "stop_lon": "-3,749,722,242"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "94",
+        "stop_name": "Reus",
+        "stop_lat": "394,859,657,288",
+        "stop_lon": "-3,817,070,127"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "95",
+        "stop_name": "Marxalenes",
+        "stop_lat": "394,879,722,595",
+        "stop_lon": "-3,838,368,952"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "96",
+        "stop_name": "Trànsits",
+        "stop_lat": "394,895,629,883",
+        "stop_lon": "-387,258,321"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "97",
+        "stop_name": "Benicalap",
+        "stop_lat": "394,900,283,813",
+        "stop_lon": "-3,909,277,916"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "98",
+        "stop_name": "Garbí",
+        "stop_lat": "394,922,904,968",
+        "stop_lon": "-3,945,111,036"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "99",
+        "stop_name": "Florista",
+        "stop_lat": "394,944,343,567",
+        "stop_lon": "-3,968,166,709"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "100",
+        "stop_name": "Palau de Congressos",
+        "stop_lat": "394,971,809,387",
+        "stop_lon": "-4,001,416,564"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "55",
+        "stop_name": "Empalme",
+        "stop_lat": "394,995,765,686",
+        "stop_lon": "-4,021,083,415"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "101",
+        "stop_name": "La Granja",
+        "stop_lat": "39,504,032,135",
+        "stop_lon": "-4,124,779,999"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "102",
+        "stop_name": "Sant Joan",
+        "stop_lat": "395,052,909,851",
+        "stop_lon": "-4,163,239,896"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "103",
+        "stop_name": "Campus",
+        "stop_lat": "395,072,212,219",
+        "stop_lon": "-4,174,583,256"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "104",
+        "stop_name": "Vicent Andrés Estellés",
+        "stop_lat": "395,085,601,807",
+        "stop_lon": "-4,198,839,962"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "83",
+        "stop_name": "Dr. Lluch",
+        "stop_lat": "394,693,069,458",
+        "stop_lon": "-3,281,527,758"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "84",
+        "stop_name": "Cabanyal",
+        "stop_lat": "394,728,546,143",
+        "stop_lon": "-3,275,833,428"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "85",
+        "stop_name": "La Cadena",
+        "stop_lat": "394,752,044,678",
+        "stop_lon": "-3,293,749,988"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "105",
+        "stop_name": "À Punt",
+        "stop_lat": "395,122,032,166",
+        "stop_lon": "-424,748,987"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "113",
+        "stop_name": "Parc Científic",
+        "stop_lat": "395,151,405,334",
+        "stop_lon": "-4,226,219,952"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "112",
+        "stop_name": "Tomás y Valiente",
+        "stop_lat": "395,197,715,759",
+        "stop_lon": "-4,256,361,127"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "111",
+        "stop_name": "La Coma",
+        "stop_lat": "39,521,572,113",
+        "stop_lon": "-4,317,069,948"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "110",
+        "stop_name": "Mas del Rosari",
+        "stop_lat": "395,249,595,642",
+        "stop_lon": "-4,358,249,903"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "128",
+        "stop_name": "Alfauir",
+        "stop_lat": "394,892,997,742",
+        "stop_lon": "-3,660,329,878"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "129",
+        "stop_name": "Orriols",
+        "stop_lat": "394,931,488,037",
+        "stop_lon": "-3,676,636,219"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "130",
+        "stop_name": "Estadi Ciutat de València",
+        "stop_lat": "394,949,188,232",
+        "stop_lon": "-3,655,419,946"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "131",
+        "stop_name": "Sant Miquel dels Reis",
+        "stop_lat": "394,972,190,857",
+        "stop_lon": "-3,684,949,875"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "132",
+        "stop_name": "Tossal del Rei",
+        "stop_lat": "394,959,526,062",
+        "stop_lon": "-3,725,369,871"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "114",
+        "stop_name": "Ll. Llarga - Terramelar",
+        "stop_lat": "395,098,991,394",
+        "stop_lon": "-4,304,472,208"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "115",
+        "stop_name": "Marítim",
+        "stop_lat": "394,649,391,174",
+        "stop_lon": "-3,382,369,876"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "122",
+        "stop_name": "Francesc Cubells",
+        "stop_lat": "394,632,453,918",
+        "stop_lon": "-3,339,729,905"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "123",
+        "stop_name": "Grau - La Marina",
+        "stop_lat": "394,631,004,333",
+        "stop_lon": "-3,294,720,054"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "127",
+        "stop_name": "Canyamelar",
+        "stop_lat": "394,665,222,168",
+        "stop_lon": "-3,279,320,002"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "126",
+        "stop_name": "Neptú",
+        "stop_lat": "394,632,530,212",
+        "stop_lon": "-3,258,508,444"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "81",
+        "stop_name": "Platja Malva-rosa",
+        "stop_lat": "39,473,690,033",
+        "stop_lon": "-3,257,277,906"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "82",
+        "stop_name": "Platja les Arenes",
+        "stop_lat": "394,689,292,908",
+        "stop_lon": "-3,257,277,906"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "18",
+        "stop_name": "Av. del Cid",
+        "stop_lat": "394,682,197,571",
+        "stop_lon": "-397,574,991"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "17",
+        "stop_name": "Àngel Guimerà",
+        "stop_lat": "394,703,025,818",
+        "stop_lon": "-3,850,361,109"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "16",
+        "stop_name": "Xàtiva",
+        "stop_lat": "394,671,859,741",
+        "stop_lon": "-3,773,750,067"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "15",
+        "stop_name": "Colón",
+        "stop_lat": "394,701,461,792",
+        "stop_lon": "-3,709,277,809"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "14",
+        "stop_name": "Alameda",
+        "stop_lat": "394,731,559,753",
+        "stop_lon": "-3,653,166,592"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "13",
+        "stop_name": "Facultats - Manuel Broseta",
+        "stop_lat": "394,780,044,556",
+        "stop_lon": "-361,905,545"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "11",
+        "stop_name": "Machado",
+        "stop_lat": "394,924,316,406",
+        "stop_lon": "-3,587,944,508"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "10",
+        "stop_name": "Alboraia Palmaret",
+        "stop_lat": "394,956,626,892",
+        "stop_lon": "-3,552,222,252"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "9",
+        "stop_name": "Alboraia Peris Aragó",
+        "stop_lat": "395,007,629,395",
+        "stop_lon": "-352,327,764"
+    },
+    {
+        "zone_id": "+",
+        "stop_id": "121",
+        "stop_name": "Aeroport",
+        "stop_lat": "394,923,667,908",
+        "stop_lon": "-4,749,194,384"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "120",
+        "stop_name": "Roses",
+        "stop_lat": "394,926,490,784",
+        "stop_lon": "-4,672,361,016"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "119",
+        "stop_name": "Manises",
+        "stop_lat": "394,895,896,912",
+        "stop_lon": "-4,590,654,373"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "118",
+        "stop_name": "Salt de l'Aigua",
+        "stop_lat": "394,848,327,637",
+        "stop_lon": "-4,505,681,992"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "117",
+        "stop_name": "Quart de Poblet",
+        "stop_lat": "39,481,086,731",
+        "stop_lon": "-441,880,554"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "200",
+        "stop_name": "Faitanar",
+        "stop_lat": "394,776,191,711",
+        "stop_lon": "-4,331,833,422"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "21",
+        "stop_name": "Mislata Almassil",
+        "stop_lat": "394,760,093,689",
+        "stop_lon": "-4,243,694,544"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "20",
+        "stop_name": "Mislata",
+        "stop_lat": "394,738,235,474",
+        "stop_lon": "-418,305,546"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "19",
+        "stop_name": "Nou d'Octubre",
+        "stop_lat": "394,706,573,486",
+        "stop_lon": "-4,076,305,628"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "8",
+        "stop_name": "Almàssera",
+        "stop_lat": "395,122,566,223",
+        "stop_lon": "-3,542,666,733"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "7",
+        "stop_name": "Meliana",
+        "stop_lat": "395,280,303,955",
+        "stop_lon": "-3,518,194,556"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "6",
+        "stop_name": "Foios",
+        "stop_lat": "395,372,238,159",
+        "stop_lon": "-3,538,694,382"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "5",
+        "stop_name": "Albalat dels Sorells",
+        "stop_lat": "395,452,651,978",
+        "stop_lon": "-3,482,888,937"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "4",
+        "stop_name": "Museros",
+        "stop_lat": "395,615,768,433",
+        "stop_lon": "-3,408,555,686"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "3",
+        "stop_name": "Massamagrell",
+        "stop_lat": "395,705,604,553",
+        "stop_lon": "-3,330,333,233"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "2",
+        "stop_name": "La Pobla de Farnals",
+        "stop_lat": "395,794,181,824",
+        "stop_lon": "-3,304,361,105"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "1",
+        "stop_name": "Rafelbunyol",
+        "stop_lat": "395,885,238,647",
+        "stop_lon": "-3,310,583,234"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "183",
+        "stop_name": "La Cova",
+        "stop_lat": "394,988,899,231",
+        "stop_lon": "-4,844,444,394"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "184",
+        "stop_name": "La Presa",
+        "stop_lat": "395,172,233,582",
+        "stop_lon": "-5,158,333,182"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "188",
+        "stop_name": "València la Vella",
+        "stop_lat": "395,304,832,458",
+        "stop_lon": "-5,342,069,864"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "185",
+        "stop_name": "Masia de Traver",
+        "stop_lat": "395,380,554,199",
+        "stop_lon": "-5,466,666,818"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "186",
+        "stop_name": "Riba-roja de Túria",
+        "stop_lat": "395,433,349,609",
+        "stop_lon": "-5,594,444,275"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "22",
+        "stop_name": "Ayora",
+        "stop_lat": "394,664,268,494",
+        "stop_lon": "-3,429,694,474"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "23",
+        "stop_name": "Amistat",
+        "stop_lat": "394,703,330,994",
+        "stop_lon": "-3,503,944,576"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "24",
+        "stop_name": "Aragó",
+        "stop_lat": "394,726,257,324",
+        "stop_lon": "-3,581,166,565"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "109",
+        "stop_name": "Bailén",
+        "stop_lat": "394,639,778,137",
+        "stop_lon": "-3,794,222,176"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "25",
+        "stop_name": "Jesús",
+        "stop_lat": "394,592,018,127",
+        "stop_lon": "-3,845,416,605"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "26",
+        "stop_name": "Patraix",
+        "stop_lat": "39,456,451,416",
+        "stop_lon": "-3,905,083,239"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "27",
+        "stop_name": "Safranar",
+        "stop_lat": "394,545,707,703",
+        "stop_lon": "-3,983,833,194"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "28",
+        "stop_name": "Sant Isidre",
+        "stop_lat": "394,510,345,459",
+        "stop_lon": "-4,028,027,654"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "30",
+        "stop_name": "València Sud",
+        "stop_lat": "394,408,111,572",
+        "stop_lon": "-4,106,472,135"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "31",
+        "stop_name": "Paiporta",
+        "stop_lat": "394,322,624,207",
+        "stop_lon": "-4,180,611,074"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "32",
+        "stop_name": "Picanya",
+        "stop_lat": "394,331,207,275",
+        "stop_lon": "-4,371,583,462"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "33",
+        "stop_name": "Torrent",
+        "stop_lat": "394,346,466,064",
+        "stop_lon": "-4,609,861,076"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "34",
+        "stop_name": "Torrent Avinguda",
+        "stop_lat": "394,318,122,864",
+        "stop_lon": "-4,728,333,354"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "60",
+        "stop_name": "Paterna",
+        "stop_lat": "394,988,098,145",
+        "stop_lon": "-4,419,719,875"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "59",
+        "stop_name": "Campament",
+        "stop_lat": "394,958,457,947",
+        "stop_lon": "-435,323"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "58",
+        "stop_name": "Les Carolines - Fira",
+        "stop_lat": "394,987,373,352",
+        "stop_lon": "-4,254,194,498"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "57",
+        "stop_name": "Benimàmet",
+        "stop_lat": "395,018,768,311",
+        "stop_lon": "-4,194,111,228"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "56",
+        "stop_name": "Cantereria",
+        "stop_lat": "395,023,803,711",
+        "stop_lon": "-4,120,722,115"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "54",
+        "stop_name": "Beniferri",
+        "stop_lat": "394,910,316,467",
+        "stop_lon": "-3,993,369,341"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "53",
+        "stop_name": "Campanar",
+        "stop_lat": "394,846,305,847",
+        "stop_lon": "-3,950,361,013"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "52",
+        "stop_name": "Túria",
+        "stop_lat": "394,788,665,771",
+        "stop_lon": "-3,912,055,492"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "51",
+        "stop_name": "Pl. Espanya",
+        "stop_lat": "394,662,017,822",
+        "stop_lon": "-3,816,333,413"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "71",
+        "stop_name": "Llíria",
+        "stop_lat": "396,228,408,813",
+        "stop_lon": "-590,277,791"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "70",
+        "stop_name": "Benaguasil",
+        "stop_lat": "395,988,807,678",
+        "stop_lon": "-5,839,277,506"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "69",
+        "stop_name": "Fondo de Benaguasil",
+        "stop_lat": "395,927,238,464",
+        "stop_lon": "-5,780,805,349"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "68",
+        "stop_name": "La Pobla de Vallbona",
+        "stop_lat": "395,827,636,719",
+        "stop_lon": "-5,622,777,939"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "201",
+        "stop_name": "Gallipont - Torre del Virrei",
+        "stop_lat": "395,686,645,508",
+        "stop_lon": "-5,419,166,684"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "67",
+        "stop_name": "L'Eliana",
+        "stop_lat": "39,561,832,428",
+        "stop_lon": "-5,359,194,279"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "66",
+        "stop_name": "Montesol",
+        "stop_lat": "395,555,725,098",
+        "stop_lon": "-5,316,972,136"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "108",
+        "stop_name": "El Clot",
+        "stop_lat": "395,498,657,227",
+        "stop_lon": "-5,279,861,093"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "65",
+        "stop_name": "Entrepins",
+        "stop_lat": "395,433,349,609",
+        "stop_lon": "-5,139,539,838"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "64",
+        "stop_name": "La Vallesa",
+        "stop_lat": "395,378,417,969",
+        "stop_lon": "-4,979,777,634"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "63",
+        "stop_name": "La Canyada",
+        "stop_lat": "395,268,058,777",
+        "stop_lon": "-4,871,222,079"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "62",
+        "stop_name": "Fuente del Jarro",
+        "stop_lat": "395,111,732,483",
+        "stop_lon": "-4,645,166,695"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "61",
+        "stop_name": "Santa Rita",
+        "stop_lat": "39,505,657,196",
+        "stop_lon": "-4,551,055,431"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "35",
+        "stop_name": "Castelló",
+        "stop_lat": "390,840,072,632",
+        "stop_lon": "-5,160,138,607"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "36",
+        "stop_name": "Alberic",
+        "stop_lat": "391,170,501,709",
+        "stop_lon": "-5,235,260,129"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "37",
+        "stop_name": "Massalavés",
+        "stop_lat": "391,438,064,575",
+        "stop_lon": "-5,187,610,984"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "38",
+        "stop_name": "Montortal",
+        "stop_lat": "391,737,976,074",
+        "stop_lon": "-5,158,861,279"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "39",
+        "stop_name": "L'Alcúdia",
+        "stop_lat": "39,193,813,324",
+        "stop_lon": "-5,102,638,602"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "40",
+        "stop_name": "Benimodo",
+        "stop_lat": "39,216,293,335",
+        "stop_lon": "-5,196,194,649"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "41",
+        "stop_name": "Carlet",
+        "stop_lat": "392,267,990,112",
+        "stop_lon": "-5,249,416,828"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "42",
+        "stop_name": "Ausiàs March",
+        "stop_lat": "392,495,574,951",
+        "stop_lon": "-4,919,772,148"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "43",
+        "stop_name": "Alginet",
+        "stop_lat": "392,629,394,531",
+        "stop_lon": "-4,748,860,002"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "44",
+        "stop_name": "Font Almaguer",
+        "stop_lat": "392,894,058,228",
+        "stop_lon": "-4,640,861,154"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "45",
+        "stop_name": "Espioca",
+        "stop_lat": "393,218,841,553",
+        "stop_lon": "-4,667,472,243"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "46",
+        "stop_name": "Omet",
+        "stop_lat": "393,532,447,815",
+        "stop_lon": "-4,736,869,931"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "47",
+        "stop_name": "Picassent",
+        "stop_lat": "393,630,371,094",
+        "stop_lon": "-4,648,583,233"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "48",
+        "stop_name": "Sant Ramon",
+        "stop_lat": "393,848,648,071",
+        "stop_lon": "-4,672,611,058"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "49",
+        "stop_name": "Realón",
+        "stop_lat": "393,939,056,396",
+        "stop_lon": "-4,640,137,851"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "50",
+        "stop_name": "Col·legi El Vedat",
+        "stop_lat": "394,231,338,501",
+        "stop_lon": "-4,606,527,686"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "72",
+        "stop_name": "Burjassot",
+        "stop_lat": "395,084,152,222",
+        "stop_lon": "-4,067,361,057"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "73",
+        "stop_name": "Burjassot - Godella",
+        "stop_lat": "395,135,307,312",
+        "stop_lon": "-4,119,972,289"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "74",
+        "stop_name": "Godella",
+        "stop_lat": "395,195,045,471",
+        "stop_lon": "-4,144,555,628"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "75",
+        "stop_name": "Rocafort",
+        "stop_lat": "395,287,094,116",
+        "stop_lon": "-4,075,777,829"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "76",
+        "stop_name": "Massarrojos",
+        "stop_lat": "395,366,096,497",
+        "stop_lon": "-4,028,777,778"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "77",
+        "stop_name": "Moncada - Alfara",
+        "stop_lat": "395,435,295,105",
+        "stop_lon": "-388,461,113"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "78",
+        "stop_name": "Seminari - CEU",
+        "stop_lat": "39,549,987,793",
+        "stop_lon": "-3,897,444,308"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "79",
+        "stop_name": "Masies",
+        "stop_lat": "395,665,817,261",
+        "stop_lon": "-4,053,777,754"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "80",
+        "stop_name": "Horta Vella",
+        "stop_lat": "395,819,320,679",
+        "stop_lon": "-4,431,444,407"
+    },
+    {
+        "zone_id": "B",
+        "stop_id": "107",
+        "stop_name": "Bétera",
+        "stop_lat": "395,906,066,895",
+        "stop_lon": "-4,575,305,581"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "190",
+        "stop_name": "Alacant",
+        "stop_lat": "39,464,721",
+        "stop_lon": "-377,477"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "191",
+        "stop_name": "Russafa",
+        "stop_lat": "39,463,913",
+        "stop_lon": "-369,531"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "192",
+        "stop_name": "Amado Granell - Montolivet",
+        "stop_lat": "39,459,373",
+        "stop_lon": "-36,511"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "193",
+        "stop_name": "Quatre Carreres",
+        "stop_lat": "39,452,447",
+        "stop_lon": "-360,125"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "194",
+        "stop_name": "Ciutat Arts i Ciències - Justícia",
+        "stop_lat": "39,452,592",
+        "stop_lon": "-353,216"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "195",
+        "stop_name": "Oceanogràfic",
+        "stop_lat": "39,452,038",
+        "stop_lon": "-347,342"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "196",
+        "stop_name": "Moreres",
+        "stop_lat": "3,945,015",
+        "stop_lon": "-338,408"
+    },
+    {
+        "zone_id": "A",
+        "stop_id": "197",
+        "stop_name": "Natzaret",
+        "stop_lat": "39,449,889",
+        "stop_lon": "-334,674"
+    },
+    {
+        "zone_id": "A B",
+        "stop_id": "106",
+        "stop_name": "Fira València",
+        "stop_lat": "395,041,427,612",
+        "stop_lon": "-4,254,944,324"
+    }
 ]
